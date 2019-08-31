@@ -1,3 +1,5 @@
+See https://github.com/orionrobots/python_usb_robot_arm for more recent versions of this repo.
+
 Python Code to drive the Maplin/OWI USB Robot arm
 
   Tested on:
